@@ -1,7 +1,7 @@
 # PA-PC_202231113_Muhammad-Faqih-Nefawan_D
-ProjectUAS Pengolahan Citra 2024 
+Project UAS Pengolahan Citra 2024 
 ---
-Pada projrct ini, saya Muhammad Faqih Nefawan dengan NIM 202231113 akan menjelaskan pengerjaan proyek UAS yang dikerjakan terkait dengan deteksi warna dan segmentasi pada gambar RGB dengan Python.
+Pada project ini, saya Muhammad Faqih Nefawan dengan NIM 202231113 akan menjelaskan pengerjaan proyek UAS yang dikerjakan terkait dengan deteksi warna dan segmentasi pada gambar RGB dengan Python.
 
 ## Pendahuluan
 ### Latar Belakang
